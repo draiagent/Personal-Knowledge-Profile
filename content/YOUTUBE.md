@@ -2,7 +2,7 @@
 
 ## CGM Coach 血糖教練
 
-頻道：CGM Coach
+頻道：CGM Coach 血糖教練
 
 ## 目前系列
 

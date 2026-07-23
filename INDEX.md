@@ -44,4 +44,4 @@
 ## 專案規則
 
 - [[CHANGELOG]]
-- [[VERSION]]
+- [VERSION](VERSION)
